@@ -6,12 +6,12 @@ const BLOCK = 30;
 
 const COLORS = [
   null,
-  '#4dd0e1', // I - cyan
+  '#ec407a', // I - pink
   '#ffd54f', // O - yellow
   '#ba68c8', // T - purple
   '#81c784', // S - green
   '#e57373', // Z - red
-  '#7986cb', // J - indigo
+  '#8d6e63', // J - brown
   '#ffb74d', // L - orange
 ];
 
